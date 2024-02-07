@@ -8,7 +8,6 @@ I enjoy expirementing with new languages and frameworks, so I'll likely be maint
 
 I am currently learning/expirementing with:
 * [Rust](https://www.rust-lang.org/)
-* [GraphQL](https://graphql.org/)
 * [Redis](https://redis.com/)
 
 I hope to be able to continue tinkering and learning, as well as make impactful contributions to open source projects in the future.
