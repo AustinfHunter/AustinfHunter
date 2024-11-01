@@ -2,12 +2,16 @@
 
 my name is Austin Hunter. I'm currently studying Computer Science at UNC Charlotte and working toward a career in software engineering. Most of my coursework at UNC Charlotte is done with Java, so you might see some Jave projects here in the future.
 
-If you'd like to reach me, you can find me on [LinkedIn](https://www.linkedin.com/in/austinfhunter/). I also have a [blog](https://www.austinhunter.dev/) where I'll be posting about things I'm learning or topics I am interested in.
+If you'd like to reach me, you can find me on [LinkedIn](https://www.linkedin.com/in/austinfhunter/). I also have a [blog](https://www.austinhunter.dev/) where I'll be posting about things I'm learning or topics I am interested in (more posts to come after I graduate in December).
 
-I enjoy expirementing with new languages and frameworks, so I'll likely be maintaining a diverse assortment of personal projects here. I have a solid understanding of Go, Javascript, and most of the front-end (HTML, CSS, React), but I'm always trying to learn more.
+Currently working on:
+* [Edukona](https://github.com/uncc-hice/edukona_backend)
+* [Quatro](https://github.com/AustinfHunter/quatro-backend)
 
-I am currently learning/expirementing with:
+Currently learning/expirementing with:
 * [Rust](https://www.rust-lang.org/)
 * [Redis](https://redis.com/)
 
-I hope to be able to continue tinkering and learning, as well as make impactful contributions to open source projects in the future.
+Projects on pause (planning to continue working on them soon):
+* [Freqy - A project where I'm playing with DSP, specifically audio/radio stuff](https://github.com/AustinfHunter/freqy)
+* [My blog - Haven't had time to post anything for quite some time. Also need to refactor things](https://www.austinhunter.dev/)
