@@ -11,8 +11,3 @@ Currently working on:
 
 Currently learning/expirementing with:
 * [Rust](https://www.rust-lang.org/)
-* [Redis](https://redis.com/)
-
-Projects on pause (planning to continue working on them soon):
-* [Freqy](https://github.com/AustinfHunter/freqy) - A project where I'm playing with DSP, specifically audio/radio stuff.
-* [My blog](https://www.austinhunter.dev/) - Haven't had time to post anything recently, currently in the process of refactoring the code for this blog.
