@@ -2,7 +2,7 @@
 
 my name is Austin Hunter. I'm a software engineer at Sky Bite, where I'm currently building systems to orchestrate meal deliveries for private pilots.
 
-If you'd like to reach me, you can find me on [LinkedIn](https://www.linkedin.com/in/austinfhunter/). I also have a [blog](https://www.austinhunter.dev/) where I'll be posting about things I'm learning or topics I am interested in.
+If you'd like to reach me, you can find me on [LinkedIn](https://www.linkedin.com/in/austinfhunter/). I also have a [blog](https://www.austinhunter.dev/) where I'll be posting about things I'm learning or topics I'm interested in.
 
 Personal/OSS projects that I'm currently working on:
 * [Voyage AI Go SDK](https://github.com/AustinfHunter/voyageai) - A Go client for the Voyage AI API.
