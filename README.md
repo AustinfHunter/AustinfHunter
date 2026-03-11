@@ -1,6 +1,6 @@
 ## Hi there!
 
-my name is Austin Hunter. I'm a software engineer at Sky Bite, where I'm currently building systems to orchestrate meal deliveries for private pilots.
+My name is Austin Hunter. I'm a software engineer at Sky Bite, where I'm currently building systems to orchestrate meal deliveries for private pilots.
 
 If you'd like to reach me, you can find me on [LinkedIn](https://www.linkedin.com/in/austinfhunter/). I also have a [blog](https://www.austinhunter.dev/) where I'll be posting about things I'm learning or topics I'm interested in.
 
